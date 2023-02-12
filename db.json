@@ -4,21 +4,21 @@
       "id": 1,
       "title": "Beach",
       "img": "https://images.unsplash.com/photo-1674560435460-c266654fdc56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY3NjIzMjE2Mw&ixlib=rb-4.0.3&q=80&w=1080",
-      "tag": "travel"
+      "tag": "travel",
       "comments": []
     },
     {
       "id": 2,
       "title": "lorem insum"
       "img": "https://images.unsplash.com/photo-1674560435460-c266654fdc56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY3NjIzMjE2Mw&ixlib=rb-4.0.3&q=80&w=1080",
-      "tag": "lifestyle"
+      "tag": "lifestyle",
       "comments": []
     },
     {
       "id": 3,
       "title": "Post 3"
       "img": "https://images.unsplash.com/photo-1674560435460-c266654fdc56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY3NjIzMjE2Mw&ixlib=rb-4.0.3&q=80&w=1080",
-      "tag": "work"
+      "tag": "work",
       "comments": []
     }
   ],
